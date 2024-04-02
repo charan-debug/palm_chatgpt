@@ -1,0 +1,17 @@
+langchain
+langchain_experimental
+openai
+streamlit
+tabulate
+ydata_profiling
+mitosheet 
+streamlit-pandas-profiling
+pygwalker
+pandas
+numpy
+scikit-learn
+streamlit
+pandasai
+pyyaml
+google-generativeai
+openpyxl
